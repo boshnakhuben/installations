@@ -1,14 +1,8 @@
 {
   "nodes": [
-    { "i": 1, "tit": "1" },
-    { "i": 2, "tit": "2" },
-    { "i": 3, "tit": "3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "fID": 111111111111, "SnsrID": "27.5" },
+    { "fID": 111111111112, "tit": "570" },
+    { "fID": 111111111113, "tit": "77" }
+  ]
+  
 }
