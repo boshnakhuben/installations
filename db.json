@@ -1,8 +1,21 @@
 {
-  "nodes": [
-    { "fID": 111111111111, "SnsrID": "27.5" },
-    { "fID": 111111111112, "SnrsID": "570" },
-    { "fID": 111111111113, "SnrsID": "77" }
-  ]
-  
+  "nodestack": {
+    "UserID": "123456789012", 
+    "Location": "PlanetEarth", 
+    "nodestack": [
+      {
+        "SolutionID": "SMT^5RE2T3r%wEE", 
+        "data": "2^8"
+      }, 
+      {
+        "units1by1": [
+          "UnitID1 <em>UnitID1.SensorRD1</em> UnitID2 <em>UnitID2.SensorRD2</em> ... UnitIDn <em>UnitIDn.SensorRDn</em>", 
+          "SensorRD1 <em>SensorRD1.IR1, SensorRD1.IR2...SensorRD1.IRn</em> "
+        ], 
+        "title": "Overview", 
+        "type": "all"
+      }
+    ], 
+    "title": "Sample Slide Show"
+  }
 }
