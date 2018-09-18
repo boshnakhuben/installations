@@ -1,8 +1,8 @@
 {
-  "nodestack": {
+  "MyNodes": {
     "UserID": "123456789012", 
     "Location": "PlanetEarth", 
-    "nodestack": [
+    "nodestack1": [
       {
         "SolutionID": "SMT^5RE2T3r%wEE", 
         "data": "2^8"
