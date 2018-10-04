@@ -1,8 +1,9 @@
-  {
+[
+         {
           "id": 1,
            "sensors": {
                "serial": "RSXXX",
-               "values": "   T: 25.4  Rh: 63  DP: 12.4  CO2: 402  AL: 341",
+               "values": "   T: 25.4  Rh: 63 ",
                 "pict": "https://user-images.githubusercontent.com/43174731/46407666-61dfce80-c718-11e8-8d20-4bc5b5c40fbe.png" 
               }  
            },
@@ -10,16 +11,9 @@
           "id": 2,
            "sensors": {
                "serial": "RSXXX",
-               "values": "   T: 23.7  Rh: 69  DP: 11.4  CO2: 442  AL: 311",
+               "values": "   T: 23.7  Rh: 69  DP: 11.4 ",
                "pict": "https://user-images.githubusercontent.com/43174731/46407666-61dfce80-c718-11e8-8d20-4bc5b5c40fbe.png"     
               }  
-           },
- {
-          "id": 3,
-           "sensors": {
-               "serial": "RSXXX",
-                "values": "   T: 23.7  Rh: 69  DP: 11.4  CO2: 442  AL: 311",
-               "pict": "https://user-images.githubusercontent.com/43174731/46407666-61dfce80-c718-11e8-8d20-4bc5b5c40fbe.png" 
-              }  
            }
- 
+
+ ]
